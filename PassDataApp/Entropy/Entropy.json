@@ -1,0 +1,77 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 7,
+    "Camera1": 6,
+    "Host": 3,
+    "Image1": 9,
+    "Screen1": 4,
+    "txtOutput": 8,
+    "txtUrl": 5
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "06/07/2023 08:02:14",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "ab157821-a8fb-4a39-b0b1-be932cfb1a5a": "\"/providers/Microsoft.PowerApps/apis/shared_logicflows/connections/1E00CCB4708146298DE02A6D95C3572E-8AC9CDF357D3E273\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "Myflow12345": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "camera": 1,
+    "image": 3,
+    "text": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Camera1": {},
+    "Host": {},
+    "Image1": {},
+    "Screen1": {},
+    "txtOutput": {},
+    "txtUrl": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 2,
+    "Camera1": 1,
+    "Host": 0,
+    "Image1": 4,
+    "Screen1": 0,
+    "txtOutput": 3,
+    "txtUrl": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1587458,
+    "ControlCount": {
+      "button": 1,
+      "camera": 1,
+      "image": 1,
+      "screen": 1,
+      "text": 2
+    },
+    "DeserializationLoadTime": 0.5934358
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

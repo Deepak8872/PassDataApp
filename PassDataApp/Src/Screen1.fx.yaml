@@ -1,0 +1,41 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =83
+        OnSelect: =Set(FlowData, Myflow12345.Run("","","",txtUrl.Text));
+        Text: ="Button"
+        Width: =370
+        X: =692
+        Y: =220
+        ZIndex: =1
+
+    txtUrl As text:
+        Default: ="Text input"
+        Height: =133
+        Width: =578
+        X: =669
+        Y: =18
+        ZIndex: =2
+
+    txtOutput As text:
+        Default: =FlowData.extractedtext1
+        Height: =308
+        Width: =625
+        X: =669
+        Y: =373
+        ZIndex: =3
+
+    Camera1 As camera:
+        Camera: =0
+        X: =40
+        Y: =40
+        ZIndex: =4
+
+    Image1 As image:
+        Height: =156
+        Image: =Camera1.Photo
+        Width: =174
+        X: =190
+        Y: =477
+        ZIndex: =5
+

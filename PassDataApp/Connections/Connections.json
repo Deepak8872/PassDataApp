@@ -1,0 +1,28 @@
+{
+  "ab157821-a8fb-4a39-b0b1-be932cfb1a5a": {
+    "connectionRef": {
+      "displayName": "Logic flows",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1636/1.0.1636.3297/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "1e00ccb4-7081-4629-8de0-2a6d95c3572e"
+        }
+      },
+      "parameterHintsV2": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "1e00ccb4-7081-4629-8de0-2a6d95c3572e"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "Myflow12345"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "ab157821-a8fb-4a39-b0b1-be932cfb1a5a"
+  }
+}
